@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1280px" height="800px" viewBox="0 0 1280 800" enable-background="new 0 0 1280 800" xml:space="preserve">
+<g>
+	<text transform="matrix(1 0 0 1 116.4058 130.4395)" fill="#542437" font-family="'MyriadPro-Semibold'" font-size="36">pre-mRNA</text>
+	<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="301" y1="121.5" x2="1147" y2="121.5"/>
+	<rect x="579" y="109" fill="#FFFFFF" width="37" height="27"/>
+	<rect x="359" y="108" fill="#C02942" width="220" height="27"/>
+	<rect x="860" y="109" fill="#C02942" width="224" height="27"/>
+	<g>
+		<text transform="matrix(1 0 0 1 463.7939 101.4395)" fill="#542437" font-family="'MyriadPro-Semibold'" font-size="24">Exon</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 933.7939 100.4395)" fill="#542437" font-family="'MyriadPro-Semibold'" font-size="24">Exon</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 686.7939 92.4395)" fill="#542437" font-family="'MyriadPro-Semibold'" font-size="24">Intron</text>
+	</g>
+	<text transform="matrix(1 0 0 1 827.7939 131.6084)" fill="#FFFFFF" font-family="'MyriadPro-Semibold'" font-size="24">AG</text>
+	<text transform="matrix(1 0 0 1 581.4312 130.4834)" font-family="'MyriadPro-Semibold'" font-size="24">GU</text>
+	<g>
+		<g>
+			<path fill="none" stroke="#D95B43" stroke-width="3" stroke-miterlimit="10" d="M753.197,138.939
+				c-40.152,40.153-103.298,43.125-146.854,8.917"/>
+			<g>
+				<polygon fill="#D95B43" points="616.672,145.594 608.537,149.566 605.749,158.178 596.294,138.939 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="824" y="110" fill="#FFFFFF" width="36" height="27"/>
+	<text transform="matrix(1 0 0 1 826.4316 131.2334)" font-family="'MyriadPro-Semibold'" font-size="24">AG</text>
+	<rect x="756" y="111" fill="#FFFFFF" width="23" height="27"/>
+	<text transform="matrix(1 0 0 1 759.5469 132.4395)" font-family="'MyriadPro-Semibold'" font-size="24">A</text>
+	<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="771" y1="399.5" x2="1151" y2="399.5"/>
+	<rect x="864" y="387" fill="#C02942" width="224" height="27"/>
+	<text transform="matrix(1 0 0 1 831.7939 409.6084)" fill="#FFFFFF" font-family="'MyriadPro-Semibold'" font-size="24">AG</text>
+	<rect x="828" y="388" fill="#FFFFFF" width="36" height="27"/>
+	<text transform="matrix(1 0 0 1 830.4316 409.2334)" font-family="'MyriadPro-Semibold'" font-size="24">AG</text>
+	<rect x="760" y="389" fill="#FFFFFF" width="23" height="27"/>
+	<text transform="matrix(1 0 0 1 763.5469 410.4395)" font-family="'MyriadPro-Semibold'" font-size="24">A</text>
+	<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="298" y1="399.5" x2="486" y2="399.5"/>
+	<rect x="363" y="386" fill="#C02942" width="220" height="27"/>
+	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M772.896,454.47
+		c0,28.167-22.885,50.985-51.051,50.985s-51.026-22.811-51.026-50.978c0-28.166,22.809-50.978,50.975-50.978H758"/>
+	<rect x="755" y="422" fill="#FFFFFF" width="31" height="39"/>
+	<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 764.3711 425.457)" font-family="'MyriadPro-Semibold'" font-size="24">GU</text>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="771.5" y1="413" x2="771.5" y2="423"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#D95B43" stroke-width="3" stroke-miterlimit="10" d="M589.295,386.941
+				c70.319-70.321,182.237-73.376,256.171-9.164"/>
+			<g>
+				<polygon fill="#D95B43" points="835.1,379.751 843.337,375.996 846.352,367.459 855.295,386.941 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1131.7939 631.7207)" fill="#FFFFFF" font-family="'MyriadPro-Semibold'" font-size="24">AG</text>
+		<rect x="1128" y="610" fill="#FFFFFF" width="36" height="27"/>
+		<text transform="matrix(1 0 0 1 1130.4316 631.3457)" font-family="'MyriadPro-Semibold'" font-size="24">AG</text>
+		<rect x="1060" y="611" fill="#FFFFFF" width="23" height="27"/>
+		<text transform="matrix(1 0 0 1 1063.5469 632.5518)" font-family="'MyriadPro-Semibold'" font-size="24">A</text>
+		<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M1072.896,676.526
+			c0,28.166-22.885,51.013-51.051,51.013s-51.026-22.853-51.026-51.02c0-28.166,22.809-51.02,50.975-51.02H1058"/>
+		<rect x="1055" y="644" fill="#FFFFFF" width="31" height="39"/>
+		
+			<text transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 1064.3711 647.5684)" font-family="'MyriadPro-Semibold'" font-size="24">GU</text>
+		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="1071.5" y1="635" x2="1071.5" y2="645"/>
+		<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="1085" y1="625.5" x2="1128" y2="625.5"/>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="648" y1="667.5" x2="857" y2="667.5"/>
+			<rect x="570" y="655" fill="#C02942" width="224" height="27"/>
+		</g>
+		<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="285" y1="668.5" x2="473" y2="668.5"/>
+		<rect x="350" y="655" fill="#C02942" width="220" height="27"/>
+		<line fill="none" stroke="#542437" stroke-width="3" stroke-miterlimit="10" x1="564.5" y1="655" x2="564.5" y2="680"/>
+	</g>
+	<text transform="matrix(1 0 0 1 896.7939 682.9238)" font-family="'MyriadPro-Semibold'" font-size="48">+</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#542437" stroke-width="6" stroke-miterlimit="10" x1="724" y1="206" x2="724" y2="270"/>
+			<g>
+				<polygon fill="#542437" points="723.794,291.439 711.598,261.592 723.794,268.674 735.987,261.592 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#542437" stroke-width="6" stroke-miterlimit="10" x1="724" y1="540" x2="724" y2="604"/>
+			<g>
+				<polygon fill="#542437" points="723.794,625.439 711.598,595.592 723.794,602.674 735.987,595.592 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 142.6846 658.4395)"><tspan x="0" y="0" fill="#542437" font-family="'MyriadPro-Semibold'" font-size="36">spliced</tspan><tspan x="5.976" y="43.2" fill="#542437" font-family="'MyriadPro-Semibold'" font-size="36">mRNA</tspan></text>
+	<text transform="matrix(1 0 0 1 659.9375 197.4395)" fill="#D95B43" font-family="'MyriadPro-Semibold'" font-size="24">(1)</text>
+	<text transform="matrix(1 0 0 1 701.9375 358.4395)" fill="#D95B43" font-family="'MyriadPro-Semibold'" font-size="24">(2)</text>
+</g>
+</svg>
